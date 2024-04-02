@@ -20,19 +20,17 @@ The pseudocode utilized in this implementation was extracted from the book autho
 
 The algorithm successfully learns to navigate the environment, reaching the goal in the minimum number of steps. Below are the visual results of the algorithm's performance:
 
-![policy iteration 2](https://github.com/NaitikDobariya/Policy-iteration/assets/113834773/2e554d1e-9d70-419c-b7b3-8aa569173a64)
-Goal Reach in Minimum Steps
+Goal Reach in Minimum Steps ![policy iteration 2](https://github.com/NaitikDobariya/Policy-iteration/assets/113834773/2e554d1e-9d70-419c-b7b3-8aa569173a64)
 
+Maze Traversal ![policy iteration](https://github.com/NaitikDobariya/Policy-iteration/assets/113834773/1ed73a93-e7cb-45fe-9381-88def6b2d58c)
 
-![policy iteration](https://github.com/NaitikDobariya/Policy-iteration/assets/113834773/1ed73a93-e7cb-45fe-9381-88def6b2d58c)
-Maze Traversal
 
 The letters represent;
-O: Obstacle
-G: Goal
-U: Up
-D: Down
-L: Left
+O: Obstacle,
+G: Goal,
+U: Up,
+D: Down,
+L: Left,
 R: Right
 
 Thank you for your interest, feel free to suggest any changes.
